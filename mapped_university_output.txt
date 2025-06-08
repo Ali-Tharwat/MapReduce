@@ -1,0 +1,1000 @@
+Oxford University	96
+Cambridge University	72
+Oxford University	81
+Stanford University	91
+Stanford University	84
+UC Berkeley	68
+Stanford University	64
+Cambridge University	97
+UC Berkeley	69
+Cambridge University	71
+UC Berkeley	77
+Stanford University	96
+Stanford University	96
+Cambridge University	75
+Oxford University	67
+MIT	89
+Harvard University	82
+Cambridge University	78
+Stanford University	75
+Harvard University	80
+MIT	76
+Harvard University	66
+MIT	66
+MIT	95
+Stanford University	61
+Cambridge University	84
+Harvard University	78
+Stanford University	82
+Oxford University	73
+MIT	74
+Stanford University	100
+Cambridge University	91
+Cambridge University	91
+Stanford University	60
+Harvard University	71
+Stanford University	74
+MIT	71
+Harvard University	75
+Harvard University	85
+Harvard University	85
+Cambridge University	100
+Cambridge University	69
+UC Berkeley	87
+Stanford University	91
+Stanford University	62
+Harvard University	85
+UC Berkeley	73
+MIT	78
+MIT	96
+UC Berkeley	79
+Stanford University	65
+MIT	69
+MIT	90
+Cambridge University	81
+Cambridge University	63
+Harvard University	61
+Cambridge University	98
+UC Berkeley	67
+Stanford University	60
+Oxford University	73
+Cambridge University	71
+MIT	60
+Harvard University	100
+UC Berkeley	94
+Cambridge University	90
+UC Berkeley	94
+Stanford University	100
+Oxford University	99
+Oxford University	66
+MIT	80
+UC Berkeley	95
+MIT	96
+Oxford University	94
+UC Berkeley	69
+Stanford University	89
+Cambridge University	62
+Oxford University	73
+Harvard University	80
+UC Berkeley	66
+Stanford University	87
+Stanford University	97
+Stanford University	61
+Oxford University	61
+Oxford University	86
+Stanford University	65
+Harvard University	70
+Oxford University	99
+MIT	85
+MIT	94
+UC Berkeley	74
+MIT	76
+Oxford University	90
+MIT	63
+Harvard University	85
+Cambridge University	77
+Harvard University	64
+MIT	72
+Harvard University	61
+Stanford University	71
+Cambridge University	100
+Stanford University	71
+Stanford University	97
+UC Berkeley	87
+UC Berkeley	81
+Cambridge University	68
+Cambridge University	61
+Harvard University	93
+Harvard University	87
+MIT	95
+MIT	85
+Stanford University	93
+Oxford University	100
+MIT	78
+MIT	90
+Oxford University	71
+UC Berkeley	87
+Oxford University	75
+UC Berkeley	91
+Oxford University	72
+Cambridge University	75
+Oxford University	68
+Cambridge University	78
+UC Berkeley	88
+Harvard University	100
+Harvard University	81
+Harvard University	89
+MIT	92
+Stanford University	77
+Cambridge University	62
+Cambridge University	73
+Cambridge University	64
+Oxford University	99
+UC Berkeley	65
+MIT	62
+UC Berkeley	76
+UC Berkeley	75
+Stanford University	94
+Harvard University	87
+Harvard University	90
+MIT	98
+Cambridge University	61
+UC Berkeley	93
+Oxford University	92
+Stanford University	84
+Oxford University	91
+UC Berkeley	65
+Stanford University	72
+Harvard University	61
+Harvard University	86
+Harvard University	90
+UC Berkeley	81
+MIT	89
+Oxford University	67
+Cambridge University	86
+Stanford University	86
+Harvard University	70
+Cambridge University	99
+Cambridge University	75
+MIT	62
+Cambridge University	94
+MIT	90
+MIT	89
+UC Berkeley	82
+Harvard University	85
+Cambridge University	77
+MIT	71
+UC Berkeley	62
+Oxford University	68
+UC Berkeley	93
+Harvard University	89
+Cambridge University	81
+Oxford University	68
+Cambridge University	76
+Oxford University	87
+Cambridge University	79
+Cambridge University	86
+Harvard University	81
+Oxford University	69
+Harvard University	100
+Stanford University	84
+Cambridge University	67
+Oxford University	70
+Cambridge University	74
+Cambridge University	87
+Oxford University	74
+Harvard University	79
+UC Berkeley	92
+Oxford University	87
+Oxford University	72
+MIT	67
+Cambridge University	82
+Stanford University	76
+Cambridge University	100
+Harvard University	73
+MIT	69
+Oxford University	78
+Cambridge University	62
+Oxford University	96
+Oxford University	66
+Harvard University	82
+UC Berkeley	66
+Oxford University	95
+UC Berkeley	92
+Harvard University	94
+Oxford University	65
+Cambridge University	71
+Cambridge University	95
+Oxford University	69
+MIT	94
+Cambridge University	72
+UC Berkeley	72
+Oxford University	98
+Stanford University	67
+Cambridge University	83
+Stanford University	70
+Harvard University	86
+Oxford University	94
+Stanford University	96
+Oxford University	80
+Cambridge University	76
+Oxford University	83
+Stanford University	62
+Stanford University	92
+Stanford University	83
+Harvard University	85
+Stanford University	93
+Oxford University	66
+UC Berkeley	73
+Oxford University	73
+Stanford University	94
+Harvard University	62
+UC Berkeley	62
+Stanford University	78
+Stanford University	84
+UC Berkeley	71
+Oxford University	65
+Cambridge University	77
+Cambridge University	80
+MIT	96
+MIT	82
+Cambridge University	84
+MIT	78
+UC Berkeley	78
+Cambridge University	64
+UC Berkeley	89
+UC Berkeley	93
+Stanford University	69
+Stanford University	89
+Stanford University	60
+Harvard University	87
+Oxford University	91
+UC Berkeley	84
+Stanford University	69
+Cambridge University	87
+UC Berkeley	73
+Harvard University	62
+Stanford University	93
+Oxford University	78
+Oxford University	72
+UC Berkeley	66
+Cambridge University	77
+Stanford University	71
+Oxford University	82
+Oxford University	73
+Harvard University	60
+UC Berkeley	80
+MIT	100
+UC Berkeley	62
+Oxford University	91
+Oxford University	95
+Harvard University	76
+Cambridge University	71
+UC Berkeley	77
+Stanford University	99
+MIT	80
+MIT	99
+Oxford University	73
+Stanford University	60
+Cambridge University	89
+MIT	91
+Harvard University	83
+Oxford University	68
+Oxford University	77
+Harvard University	87
+Stanford University	64
+MIT	85
+Oxford University	84
+Stanford University	84
+UC Berkeley	61
+MIT	61
+Cambridge University	88
+UC Berkeley	60
+Harvard University	93
+UC Berkeley	82
+Harvard University	94
+Oxford University	81
+UC Berkeley	91
+Harvard University	72
+Oxford University	90
+Stanford University	86
+MIT	89
+Stanford University	77
+Oxford University	83
+UC Berkeley	78
+UC Berkeley	66
+Cambridge University	68
+Cambridge University	88
+Cambridge University	69
+MIT	81
+Oxford University	98
+Oxford University	87
+Cambridge University	69
+Stanford University	95
+UC Berkeley	63
+UC Berkeley	88
+Harvard University	91
+Harvard University	85
+Harvard University	69
+Cambridge University	70
+Cambridge University	97
+Harvard University	100
+MIT	71
+UC Berkeley	89
+Oxford University	80
+MIT	91
+UC Berkeley	93
+Oxford University	83
+MIT	77
+Harvard University	71
+Harvard University	66
+Cambridge University	96
+Harvard University	83
+UC Berkeley	65
+Oxford University	96
+Oxford University	70
+Cambridge University	97
+Cambridge University	72
+Cambridge University	97
+MIT	92
+Harvard University	60
+MIT	70
+Stanford University	80
+Harvard University	83
+Stanford University	88
+Cambridge University	87
+Cambridge University	83
+Harvard University	93
+Cambridge University	86
+UC Berkeley	98
+Oxford University	64
+MIT	93
+UC Berkeley	87
+UC Berkeley	71
+Stanford University	60
+Harvard University	96
+Oxford University	65
+Harvard University	82
+UC Berkeley	80
+Harvard University	76
+Oxford University	68
+Harvard University	61
+Harvard University	74
+Cambridge University	61
+Cambridge University	63
+Harvard University	96
+Cambridge University	70
+UC Berkeley	94
+Cambridge University	68
+Oxford University	77
+Harvard University	83
+Stanford University	99
+MIT	95
+UC Berkeley	66
+Stanford University	81
+UC Berkeley	61
+Harvard University	60
+MIT	66
+Oxford University	67
+Stanford University	99
+Stanford University	99
+Stanford University	67
+Harvard University	76
+UC Berkeley	76
+MIT	62
+Stanford University	61
+Stanford University	92
+Cambridge University	86
+MIT	92
+Harvard University	95
+Harvard University	95
+Stanford University	100
+Oxford University	100
+Stanford University	88
+Oxford University	82
+MIT	76
+UC Berkeley	87
+Harvard University	63
+Stanford University	80
+Stanford University	100
+UC Berkeley	79
+MIT	94
+Cambridge University	92
+Stanford University	82
+UC Berkeley	86
+Harvard University	78
+Stanford University	69
+Stanford University	98
+UC Berkeley	79
+Cambridge University	86
+Oxford University	75
+MIT	85
+Harvard University	62
+Harvard University	81
+MIT	81
+UC Berkeley	100
+UC Berkeley	90
+Oxford University	64
+Cambridge University	92
+Oxford University	87
+MIT	66
+Cambridge University	70
+Cambridge University	74
+Stanford University	67
+Stanford University	88
+Cambridge University	97
+Cambridge University	96
+MIT	69
+Harvard University	71
+Harvard University	73
+MIT	83
+MIT	100
+Harvard University	61
+Oxford University	82
+Harvard University	74
+UC Berkeley	67
+Stanford University	90
+Cambridge University	76
+Oxford University	90
+MIT	69
+MIT	100
+Cambridge University	99
+UC Berkeley	99
+Oxford University	100
+Cambridge University	64
+MIT	72
+Oxford University	78
+Cambridge University	87
+UC Berkeley	66
+Stanford University	65
+MIT	95
+UC Berkeley	65
+MIT	71
+MIT	80
+Harvard University	94
+MIT	80
+Stanford University	62
+Cambridge University	85
+Oxford University	71
+UC Berkeley	68
+Harvard University	68
+Stanford University	91
+MIT	83
+Cambridge University	63
+Cambridge University	63
+Oxford University	97
+MIT	76
+Oxford University	84
+Cambridge University	100
+UC Berkeley	61
+UC Berkeley	94
+Harvard University	64
+MIT	86
+Harvard University	85
+UC Berkeley	83
+Oxford University	74
+Oxford University	65
+Harvard University	63
+MIT	78
+Harvard University	68
+Stanford University	76
+Cambridge University	77
+UC Berkeley	78
+Oxford University	86
+Cambridge University	100
+Oxford University	62
+Oxford University	67
+MIT	91
+Oxford University	74
+Oxford University	71
+Stanford University	74
+Stanford University	62
+MIT	79
+Oxford University	96
+MIT	64
+Stanford University	72
+Harvard University	66
+UC Berkeley	73
+MIT	95
+UC Berkeley	81
+Harvard University	98
+Oxford University	66
+MIT	66
+Cambridge University	93
+UC Berkeley	100
+UC Berkeley	67
+Stanford University	62
+Oxford University	67
+Cambridge University	79
+UC Berkeley	99
+Harvard University	90
+Stanford University	83
+Harvard University	61
+Stanford University	90
+Cambridge University	71
+MIT	77
+UC Berkeley	87
+Stanford University	66
+Stanford University	73
+Oxford University	76
+UC Berkeley	85
+Stanford University	80
+Oxford University	100
+Harvard University	95
+Stanford University	64
+UC Berkeley	66
+UC Berkeley	62
+Cambridge University	69
+MIT	94
+Oxford University	84
+MIT	79
+Oxford University	62
+Oxford University	78
+Cambridge University	92
+Oxford University	95
+Harvard University	76
+Oxford University	73
+Cambridge University	93
+Oxford University	100
+Cambridge University	87
+MIT	100
+Cambridge University	66
+Oxford University	75
+Stanford University	75
+Cambridge University	91
+Stanford University	74
+Harvard University	90
+MIT	61
+Harvard University	62
+Harvard University	83
+UC Berkeley	85
+Cambridge University	74
+Harvard University	76
+Cambridge University	96
+Oxford University	69
+Harvard University	99
+Cambridge University	72
+Cambridge University	80
+Cambridge University	100
+UC Berkeley	94
+UC Berkeley	78
+UC Berkeley	100
+UC Berkeley	64
+Oxford University	60
+Harvard University	99
+Stanford University	92
+MIT	85
+Harvard University	62
+UC Berkeley	64
+MIT	87
+Harvard University	88
+Harvard University	76
+Oxford University	75
+MIT	86
+Stanford University	72
+Oxford University	78
+Harvard University	62
+UC Berkeley	89
+MIT	67
+UC Berkeley	99
+Harvard University	68
+Oxford University	84
+MIT	80
+UC Berkeley	68
+MIT	70
+Harvard University	84
+Harvard University	83
+MIT	61
+Oxford University	79
+Oxford University	78
+Stanford University	69
+MIT	69
+MIT	94
+Harvard University	85
+Cambridge University	67
+Oxford University	73
+Oxford University	63
+Cambridge University	68
+Cambridge University	97
+UC Berkeley	95
+Oxford University	65
+Stanford University	96
+UC Berkeley	84
+UC Berkeley	88
+Harvard University	68
+Harvard University	65
+UC Berkeley	60
+Oxford University	98
+Harvard University	81
+Harvard University	60
+Cambridge University	76
+MIT	70
+Harvard University	69
+UC Berkeley	63
+UC Berkeley	68
+UC Berkeley	62
+Cambridge University	68
+Cambridge University	85
+UC Berkeley	94
+UC Berkeley	90
+Cambridge University	82
+Oxford University	65
+Harvard University	61
+MIT	70
+Harvard University	78
+Harvard University	97
+Harvard University	71
+MIT	94
+Oxford University	70
+Stanford University	74
+UC Berkeley	80
+Cambridge University	61
+Stanford University	72
+Cambridge University	67
+Stanford University	76
+Stanford University	84
+Cambridge University	80
+Stanford University	64
+Oxford University	90
+MIT	97
+Oxford University	91
+Harvard University	73
+MIT	87
+Cambridge University	72
+MIT	72
+UC Berkeley	74
+UC Berkeley	64
+Oxford University	80
+Cambridge University	75
+Harvard University	86
+Cambridge University	64
+Cambridge University	64
+Harvard University	100
+Harvard University	89
+Oxford University	66
+Stanford University	82
+Oxford University	76
+UC Berkeley	60
+UC Berkeley	100
+Oxford University	70
+Oxford University	100
+Oxford University	100
+UC Berkeley	78
+MIT	92
+Stanford University	63
+Oxford University	63
+Oxford University	69
+MIT	68
+Cambridge University	84
+Stanford University	96
+UC Berkeley	70
+Harvard University	64
+Cambridge University	75
+Oxford University	97
+MIT	97
+Harvard University	87
+Harvard University	88
+Harvard University	64
+Harvard University	61
+Cambridge University	66
+Stanford University	68
+UC Berkeley	80
+MIT	63
+Stanford University	86
+Harvard University	84
+Oxford University	94
+MIT	79
+Harvard University	66
+Cambridge University	88
+UC Berkeley	81
+UC Berkeley	67
+Stanford University	82
+Cambridge University	64
+Oxford University	81
+Cambridge University	65
+Stanford University	84
+Stanford University	95
+Stanford University	61
+Stanford University	70
+Stanford University	95
+Cambridge University	67
+Harvard University	74
+MIT	76
+UC Berkeley	82
+Stanford University	85
+Stanford University	92
+MIT	70
+Oxford University	80
+Oxford University	97
+UC Berkeley	65
+Harvard University	62
+Oxford University	95
+UC Berkeley	68
+Harvard University	89
+Stanford University	74
+MIT	93
+Cambridge University	65
+Stanford University	77
+Cambridge University	77
+Oxford University	60
+Stanford University	84
+Stanford University	99
+Cambridge University	92
+Cambridge University	61
+Cambridge University	94
+Stanford University	98
+Cambridge University	87
+MIT	98
+MIT	76
+Cambridge University	75
+Stanford University	65
+UC Berkeley	80
+Cambridge University	60
+Harvard University	92
+MIT	94
+Harvard University	72
+Harvard University	65
+Cambridge University	91
+MIT	78
+Harvard University	96
+Cambridge University	76
+MIT	86
+Oxford University	70
+Harvard University	92
+Cambridge University	63
+Stanford University	70
+Oxford University	64
+Stanford University	79
+Oxford University	62
+UC Berkeley	73
+Oxford University	71
+Oxford University	73
+Oxford University	60
+Harvard University	61
+Cambridge University	64
+Stanford University	93
+Stanford University	96
+Oxford University	60
+UC Berkeley	78
+UC Berkeley	66
+Oxford University	66
+MIT	62
+UC Berkeley	91
+Cambridge University	96
+Harvard University	67
+Stanford University	90
+UC Berkeley	60
+Oxford University	89
+UC Berkeley	96
+MIT	77
+Cambridge University	90
+Cambridge University	93
+UC Berkeley	70
+Stanford University	60
+UC Berkeley	75
+Oxford University	67
+MIT	76
+Stanford University	94
+Harvard University	89
+Cambridge University	99
+Stanford University	60
+Cambridge University	89
+UC Berkeley	64
+UC Berkeley	99
+Stanford University	79
+MIT	99
+MIT	60
+Harvard University	71
+Cambridge University	69
+Stanford University	88
+Stanford University	68
+Oxford University	81
+UC Berkeley	82
+Stanford University	76
+MIT	91
+Cambridge University	85
+MIT	72
+UC Berkeley	65
+Stanford University	95
+Cambridge University	87
+Cambridge University	72
+MIT	70
+UC Berkeley	65
+Oxford University	100
+Stanford University	62
+Cambridge University	63
+MIT	100
+Cambridge University	90
+UC Berkeley	85
+UC Berkeley	95
+MIT	76
+Harvard University	72
+Stanford University	91
+Cambridge University	79
+MIT	99
+MIT	99
+Oxford University	67
+Oxford University	69
+Harvard University	95
+Harvard University	82
+Stanford University	75
+MIT	89
+UC Berkeley	90
+Oxford University	79
+Oxford University	62
+Cambridge University	99
+Stanford University	69
+Cambridge University	92
+Cambridge University	94
+Cambridge University	68
+MIT	76
+Cambridge University	64
+UC Berkeley	68
+Oxford University	95
+MIT	63
+Stanford University	73
+UC Berkeley	75
+Cambridge University	66
+Oxford University	76
+Oxford University	65
+UC Berkeley	92
+Cambridge University	95
+UC Berkeley	82
+Cambridge University	63
+Oxford University	82
+Cambridge University	92
+MIT	63
+Stanford University	88
+Harvard University	95
+Oxford University	67
+UC Berkeley	64
+Stanford University	87
+MIT	76
+Stanford University	96
+UC Berkeley	72
+UC Berkeley	60
+Harvard University	61
+Oxford University	83
+Harvard University	63
+Oxford University	73
+Stanford University	67
+Cambridge University	87
+UC Berkeley	98
+Stanford University	88
+UC Berkeley	64
+Oxford University	89
+Cambridge University	60
+Stanford University	84
+Stanford University	68
+UC Berkeley	63
+Harvard University	90
+Oxford University	91
+MIT	66
+UC Berkeley	79
+UC Berkeley	83
+Oxford University	67
+Oxford University	95
+Cambridge University	69
+Oxford University	89
+Stanford University	100
+MIT	78
+MIT	87
+UC Berkeley	68
+Stanford University	66
+MIT	84
+UC Berkeley	99
+Oxford University	100
+Oxford University	89
+Stanford University	66
+UC Berkeley	84
+Cambridge University	95
+MIT	91
+Cambridge University	85
+Harvard University	73
+Harvard University	83
+Cambridge University	83
+UC Berkeley	76
+Cambridge University	98
+Stanford University	77
+Cambridge University	90
+UC Berkeley	65
+UC Berkeley	77
+Cambridge University	81
+UC Berkeley	74
+Oxford University	93
+Harvard University	65
+UC Berkeley	95
+Stanford University	81
+Cambridge University	79
+MIT	86
+Harvard University	86
+Stanford University	68
+MIT	65
+Stanford University	70
+UC Berkeley	100
+Stanford University	78
+MIT	79
+UC Berkeley	71
+Harvard University	93
+UC Berkeley	85
+Stanford University	97
+Cambridge University	80
+Cambridge University	98
+UC Berkeley	81
+Stanford University	85
+Stanford University	100
+Oxford University	91
+Cambridge University	88
+Harvard University	68
+MIT	98
+Cambridge University	97
+Harvard University	85
+MIT	67
+Stanford University	63
+Stanford University	88
+Harvard University	84
+Stanford University	75
+Oxford University	83
+Stanford University	77
+Harvard University	73
+Stanford University	69
+Harvard University	84
+UC Berkeley	69
+UC Berkeley	81
+Oxford University	72
+UC Berkeley	81
+Stanford University	75
+Cambridge University	64
+Harvard University	71
+UC Berkeley	67
+UC Berkeley	61
+Stanford University	64
+Cambridge University	79
+Harvard University	97
+Cambridge University	92
+Oxford University	76
+Oxford University	94
+UC Berkeley	74
+Cambridge University	73
+Oxford University	74
+MIT	91
+Cambridge University	77
+UC Berkeley	79
+Harvard University	98
+Cambridge University	84
+Stanford University	98
+Oxford University	90
+Oxford University	97
+Stanford University	79
+Harvard University	94
+Stanford University	90
+UC Berkeley	76
+Cambridge University	65
+UC Berkeley	64
+Cambridge University	70
+Cambridge University	62
+MIT	64
+Cambridge University	73
+Harvard University	70
+Stanford University	76
+MIT	79
+Stanford University	88
+Harvard University	84
+Oxford University	74
+Harvard University	66
+MIT	74
+Cambridge University	63
+Stanford University	77
+Harvard University	85
+UC Berkeley	98
+MIT	90
+Oxford University	79
+Harvard University	82
+UC Berkeley	69
+Oxford University	84
+MIT	88
+Oxford University	80
+Stanford University	83
+Stanford University	81
+MIT	84
+MIT	99
